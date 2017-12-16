@@ -1,0 +1,19 @@
+.story_container {
+    text-align: center;
+}
+
+.story {
+    text-align: justify;
+    height: auto;
+    width: 48%;
+    display: inline-block;
+    border: 2px solid #0000bf;
+    padding: 0px 21px 10px 21px;
+    margin-top: 5px;
+    background-color: white;
+    font-size: 17px;
+    font-family: Georgia, Arial, "Times New Roman", Consolas, serif;
+    font-stretch: expanded;
+    white-space: pre-line;
+    line-height: 25px;
+}

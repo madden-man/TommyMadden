@@ -1,0 +1,500 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="0d0416b6-4757-4981-b795-2320d1286e5e" name="Default" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="real_time.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/real_time.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="238">
+              <caret line="19" column="25" lean-forward="false" selection-start-line="19" selection-start-column="25" selection-end-line="19" selection-end-column="25" />
+              <folding>
+                <marker date="1512543557415" expanded="true" signature="350:374" ph="SELECT code my_page" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="gold.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/gold.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1309">
+              <caret line="82" column="19" lean-forward="false" selection-start-line="82" selection-start-column="19" selection-end-line="82" selection-end-column="19" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="silver.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/silver.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1105">
+              <caret line="70" column="17" lean-forward="false" selection-start-line="70" selection-start-column="17" selection-end-line="70" selection-end-column="17" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="date_range.php" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/date_range.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="119">
+              <caret line="12" column="0" lean-forward="true" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="gold_and_silver.css" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/css/gold_and_silver.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="612">
+              <caret line="36" column="0" lean-forward="false" selection-start-line="36" selection-start-column="0" selection-end-line="36" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="slides_request.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/slides/slides_request.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="918">
+              <caret line="59" column="0" lean-forward="false" selection-start-line="59" selection-start-column="0" selection-end-line="59" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CSS File" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>?&gt;</find>
+      <find>$string[$i]</find>
+      <find>header</find>
+      <find>echo</find>
+      <find>msg.contains</find>
+      <find>query_song</find>
+      <find>return</find>
+      <find>http:</find>
+      <find>escape</find>
+      <find>http</find>
+      <find>each</find>
+      <find>gold</find>
+      <find>silver</find>
+    </findStrings>
+    <replaceStrings>
+      <replace />
+      <replace>https:</replace>
+    </replaceStrings>
+    <dirStrings>
+      <dir>/blog/poems</dir>
+    </dirStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="/slides/remove_slides.php" />
+        <option value="/slides/css/cum_slides.css" />
+        <option value="/slides/cum_slides_request.php" />
+        <option value="/slides/css/slide_creator.css" />
+        <option value="/truevine/about,&#10;_us.php" />
+        <option value="/truevine/top_bar.php" />
+        <option value="/truevine/default_links.php" />
+        <option value="/truevine/about_us.php" />
+        <option value="/truevine/search.php" />
+        <option value="/truevine/engage.php" />
+        <option value="/truevine/css/defaults.css" />
+        <option value="/blog/posts/leadership.php" />
+        <option value="/slides/slides_request.php" />
+        <option value="/slides/get_slides.php" />
+        <option value="/blog/poems/a_poem_about.php" />
+        <option value="/blog/poetry_list.php" />
+        <option value="/comodo_head_script.php" />
+        <option value="/slides/creator.php" />
+        <option value="/css/fonts.css" />
+        <option value="/truevine/index.php" />
+        <option value="/top_bar.php" />
+        <option value="/blog/show_poem.php" />
+        <option value="/blog/show_post.php" />
+        <option value="/blog/css/poetry_list.css" />
+        <option value="/blog/navbar.php" />
+        <option value="/blog/index.php" />
+        <option value="/index.php" />
+        <option value="/blog/blog.php" />
+        <option value="/blog/css/navbar.css" />
+        <option value="/blog/css/index.css" />
+        <option value="/blog/css/post_list.css" />
+        <option value="/blog/post_list.php" />
+        <option value="/comodo_body_script.php" />
+        <option value="$USER_HOME$/truevine/index.php" />
+        <option value="$PROJECT_DIR$/../../poems/slack_line_love.php" />
+        <option value="$PROJECT_DIR$/../../poetry_list.php" />
+        <option value="$USER_HOME$/slides/submit_slides.php" />
+        <option value="$USER_HOME$/slides/search_request.php" />
+        <option value="$PROJECT_DIR$/../slides/get_slides.php" />
+        <option value="$PROJECT_DIR$/../family/remove_food.php" />
+        <option value="$PROJECT_DIR$/../family/get_food_info.php" />
+        <option value="$PROJECT_DIR$/../family/submit_food.php" />
+        <option value="$PROJECT_DIR$/../family/css/food_plans.css" />
+        <option value="$PROJECT_DIR$/../slides/creator.php" />
+        <option value="$PROJECT_DIR$/../family/food_plans.php" />
+        <option value="$PROJECT_DIR$/real_time.php" />
+        <option value="$PROJECT_DIR$/gold_and_silver.php" />
+        <option value="$PROJECT_DIR$/date_range.php" />
+        <option value="$PROJECT_DIR$/gold.php" />
+        <option value="$PROJECT_DIR$/silver.php" />
+        <option value="$PROJECT_DIR$/css/gold_and_silver.css" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsFlowSettings">
+    <service-enabled>false</service-enabled>
+    <exe-path />
+    <annotation-enable>false</annotation-enable>
+    <other-services-enabled>false</other-services-enabled>
+    <auto-save>true</auto-save>
+  </component>
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="NodeModulesDirectoryManager">
+    <handled-path value="$PROJECT_DIR$/slides/node_modules" />
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="75" />
+    <option name="y" value="-4" />
+    <option name="width" value="651" />
+    <option name="height" value="736" />
+  </component>
+  <component name="ProjectInspectionProfilesVisibleTreeState">
+    <entry key="Project Default">
+      <profile-state>
+        <expanded-state>
+          <State>
+            <id />
+          </State>
+        </expanded-state>
+        <selected-state>
+          <State>
+            <id>AngularJS</id>
+          </State>
+        </selected-state>
+      </profile-state>
+    </entry>
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="TommyMadden" type="b2602c69:ProjectViewProjectNode" />
+              <item name="TommyMadden" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="TommyMadden" type="b2602c69:ProjectViewProjectNode" />
+              <item name="TommyMadden" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="css" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="TommyMadden" type="b2602c69:ProjectViewProjectNode" />
+              <item name="TommyMadden" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="slides" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+      <pane id="Scratches" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="reference.settings.deploy.options" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="SearchEverywhereHistoryKey" value="&#9;FILE&#9;file:///home/tommy/dev/PhpstormProjects/TommyMadden/slides/submit_slides.php" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/../personal" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0d0416b6-4757-4981-b795-2320d1286e5e" name="Default" comment="" />
+      <created>1506645536163</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1506645536163</updated>
+      <workItem from="1506645538743" duration="3899000" />
+      <workItem from="1506834409606" duration="165000" />
+      <workItem from="1506834584081" duration="4000" />
+      <workItem from="1507007426695" duration="25649000" />
+      <workItem from="1507050297360" duration="6808000" />
+      <workItem from="1507057371711" duration="4152000" />
+      <workItem from="1507061657830" duration="637000" />
+      <workItem from="1507078249357" duration="81000" />
+      <workItem from="1507081094635" duration="42000" />
+      <workItem from="1507081844655" duration="816000" />
+      <workItem from="1507090948825" duration="5907000" />
+      <workItem from="1507143314877" duration="643000" />
+      <workItem from="1507150393682" duration="1103000" />
+      <workItem from="1507158560218" duration="6834000" />
+      <workItem from="1507226766057" duration="5154000" />
+      <workItem from="1507242430332" duration="25000" />
+      <workItem from="1507317029460" duration="781000" />
+      <workItem from="1507320382784" duration="3345000" />
+      <workItem from="1507331330230" duration="6249000" />
+      <workItem from="1507573368353" duration="5000" />
+      <workItem from="1507575417254" duration="4801000" />
+      <workItem from="1507591759295" duration="2712000" />
+      <workItem from="1507604619292" duration="5112000" />
+      <workItem from="1507654849895" duration="618000" />
+      <workItem from="1507704439785" duration="1400000" />
+      <workItem from="1507751280220" duration="4460000" />
+      <workItem from="1507759422067" duration="3464000" />
+      <workItem from="1507765939946" duration="1940000" />
+      <workItem from="1507770572983" duration="1328000" />
+      <workItem from="1507787168062" duration="2906000" />
+      <workItem from="1507924723208" duration="11000" />
+      <workItem from="1507924751419" duration="2825000" />
+      <workItem from="1508367155882" duration="3563000" />
+      <workItem from="1508877673785" duration="747000" />
+      <workItem from="1509768335625" duration="7373000" />
+      <workItem from="1509833243292" duration="179000" />
+      <workItem from="1510002241169" duration="1710000" />
+      <workItem from="1510184669507" duration="22000" />
+      <workItem from="1510531732926" duration="2288000" />
+      <workItem from="1510534043885" duration="13209000" />
+      <workItem from="1510875865311" duration="201000" />
+      <workItem from="1510953158264" duration="613000" />
+      <workItem from="1511212158531" duration="656000" />
+      <workItem from="1512542866026" duration="760000" />
+      <workItem from="1512972236370" duration="8000" />
+      <workItem from="1513386090221" duration="1265000" />
+      <workItem from="1513450894465" duration="4928000" />
+      <workItem from="1513455859491" duration="2118000" />
+      <workItem from="1513458485685" duration="21000" />
+      <workItem from="1513458521155" duration="2494000" />
+      <workItem from="1513461325609" duration="10000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="146041000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="75" y="-4" width="1303" height="780" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.17131475" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.30793157" sideWeight="0.57290834" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32868218" sideWeight="0.49721116" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="File Transfer" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.30697674" sideWeight="0.42709163" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <option name="time" value="2" />
+    </breakpoint-manager>
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file:///blog/css/story.css" />
+    <entry file="file:///blog/css/post.css" />
+    <entry file="file:///blog/css/universals.css" />
+    <entry file="file:///blog/navbar.php" />
+    <entry file="file:///css/top_bar.css" />
+    <entry file="file:///blog/index.php" />
+    <entry file="file:///index.php" />
+    <entry file="file:///blog/show_post.php" />
+    <entry file="file:///blog/poetry.php" />
+    <entry file="file:///blog/css/poetry_list.css" />
+    <entry file="file:///blog/css/bottom_bar.css" />
+    <entry file="file:///blog/css/post_list.css" />
+    <entry file="file:///blog/post_list.php" />
+    <entry file="file:///blog/css/index.css" />
+    <entry file="file:///blog/css/navbar.css" />
+    <entry file="file:///blog/css/poetry.css" />
+    <entry file="file:///comodo_head_script.php" />
+    <entry file="file:///blog/blog.php" />
+    <entry file="file:///comodo_body_script.php" />
+    <entry file="file://$USER_HOME$/truevine/top_bar.php" />
+    <entry file="file://$USER_HOME$/truevine/search.php" />
+    <entry file="file://$USER_HOME$/truevine/index.php" />
+    <entry file="file://$PROJECT_DIR$/../../poems/no_matter_what.php" />
+    <entry file="file://$PROJECT_DIR$/../../poems/My Greatest Fear.php" />
+    <entry file="file://$PROJECT_DIR$/../../poems/slack_line_love.php" />
+    <entry file="file://$USER_HOME$/slides/search_request.php" />
+    <entry file="file://$USER_HOME$/slides/submit_slides.php" />
+    <entry file="file://$USER_HOME$/slides/creator.php" />
+    <entry file="file://$USER_HOME$/slides/slides_request.php" />
+    <entry file="file://$PROJECT_DIR$/../../poetry_list.php" />
+    <entry file="file://$PROJECT_DIR$/../family/food_plan.php" />
+    <entry file="file://$PROJECT_DIR$/../slides/slides_request.php" />
+    <entry file="file://$PROJECT_DIR$/../slides/get_slides.php" />
+    <entry file="file://$PROJECT_DIR$/../slides/submit_slides.php" />
+    <entry file="file://$PROJECT_DIR$/../family/css/food_plans.css" />
+    <entry file="file://$PROJECT_DIR$/../family/remove_food.php" />
+    <entry file="file://$PROJECT_DIR$/../slides/remove_slides.php" />
+    <entry file="file://$PROJECT_DIR$/../family/submit_food.php" />
+    <entry file="file://$PROJECT_DIR$/../family/get_food_info.php" />
+    <entry file="file://$PROJECT_DIR$/../slides/css/form.css" />
+    <entry file="file://$PROJECT_DIR$/../slides/css/slide_creator.css" />
+    <entry file="file://$PROJECT_DIR$/../slides/creator.php" />
+    <entry file="file://$PROJECT_DIR$/../family/food_plans.php" />
+    <entry file="file://$PROJECT_DIR$/real_time.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="19" column="25" lean-forward="false" selection-start-line="19" selection-start-column="25" selection-end-line="19" selection-end-column="25" />
+          <folding>
+            <marker date="1512543557415" expanded="true" signature="350:374" ph="SELECT code my_page" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/slides/get_slides.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="17" column="0" lean-forward="false" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-3612">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gold.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1309">
+          <caret line="82" column="19" lean-forward="false" selection-start-line="82" selection-start-column="19" selection-end-line="82" selection-end-column="19" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/slides/slides_request.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="918">
+          <caret line="59" column="0" lean-forward="false" selection-start-line="59" selection-start-column="0" selection-end-line="59" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/silver.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1105">
+          <caret line="70" column="17" lean-forward="false" selection-start-line="70" selection-start-column="17" selection-end-line="70" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/gold_and_silver.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="612">
+          <caret line="36" column="0" lean-forward="false" selection-start-line="36" selection-start-column="0" selection-end-line="36" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/date_range.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="12" column="0" lean-forward="true" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ScopeChooserConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

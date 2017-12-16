@@ -1,0 +1,4 @@
+[28-Aug-2017 23:34:24 America/New_York] PHP Warning:  include(new_top_bar): failed to open stream: No such file or directory in /home/tommraed/public_html/new_i.php on line 16
+[28-Aug-2017 23:34:24 America/New_York] PHP Warning:  include(new_top_bar): failed to open stream: No such file or directory in /home/tommraed/public_html/new_i.php on line 16
+[28-Aug-2017 23:34:24 America/New_York] PHP Warning:  include(): Failed opening 'new_top_bar' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/tommraed/public_html/new_i.php on line 16
+[06-Sep-2017 16:40:56 America/New_York] PHP Notice:  Undefined variable: wasSuccessful in /home/tommraed/public_html/new_i.php on line 96

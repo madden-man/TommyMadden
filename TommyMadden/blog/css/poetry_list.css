@@ -1,0 +1,60 @@
+#poem_label_container {
+    text-align: center;
+    width: 100%;
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+
+#poems_label {
+    font-family: Sylfaen, serif;
+    font-size: 52px;
+    display: inline-block;
+    border-radius: 15px;
+    background: url("../img/light-blue-background.jpg") no-repeat;
+    background-size: cover;
+    color: black;
+    padding-left: 4%;
+    padding-right: 4%;
+    padding-top: 2%;
+    padding-bottom: 2%;
+    border: 2px solid #0000bf;
+    margin-top: 5px;
+}
+
+.poem_item {
+    text-align: center;
+    margin-bottom: 70px;
+}
+
+a.poem_link {
+    width: 49%;
+    min-width: 460px;
+    text-align: center;
+    display: inline-block;
+    background-color: white;
+    fill-opacity: 15;
+    border: 3px ridge darkorange;
+    margin-top: 15px;
+    margin-bottom: 10px;
+    font-size: 20px;
+    padding-top: 7px;
+    padding-bottom: 7px;
+    text-decoration: none;
+    transition: all 0.4s ease-in-out;
+    -webkit-transition: all 0.4s ease-in-out;
+    -moz-transition: all 0.4s ease-in-out;
+    -o-transition: all 0.4s ease-in-out;
+    -ms-transition: all 0.4s ease-in-out;
+    color: black;
+}
+
+a.poem_link:hover {
+    transition: all 0.4s ease-in-out;
+    -webkit-transition: all 0.4s ease-in-out;
+    -moz-transition: all 0.4s ease-in-out;
+    -o-transition: all 0.4s ease-in-out;
+    -ms-transition: all 0.4s ease-in-out;
+    background-color: black;
+    color: #FFFFFF;
+    border: 3px ridge #000000;
+}

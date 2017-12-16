@@ -1,0 +1,70 @@
+#nav_container {
+    text-align: center;
+}
+
+.nav_title {
+    margin: 8px 5px 8px 5px;
+    padding: 5px 1px 5px 1px;
+    height: auto;
+    min-width: 300px;
+    width: 16%;
+    font-size: 20px;
+    color: #000000;
+    display: inline-block;
+    text-align: center;
+    border: 2px solid #0000bf;
+    transition: all 0.4s ease-in-out;
+    -webkit-transition: all 0.4s ease-in-out;
+    -moz-transition: all 0.4s ease-in-out;
+    -o-transition: all 0.4s ease-in-out;
+    -ms-transition: all 0.4s ease-in-out;
+}
+
+#nav_home:hover {
+    transition: all 0.4s ease-in-out;
+    -webkit-transition: all 0.4s ease-in-out;
+    -moz-transition: all 0.4s ease-in-out;
+    -o-transition: all 0.4s ease-in-out;
+    -ms-transition: all 0.4s ease-in-out;
+    background-color: #0000bf;
+    color: #FFFFFF;
+}
+
+#nav_home {
+    background-color: #00fafa;
+
+}
+
+#nav_blog:hover {
+    transition: all 0.4s ease-in-out;
+    -webkit-transition: all 0.4s ease-in-out;
+    -moz-transition: all 0.4s ease-in-out;
+    -o-transition: all 0.4s ease-in-out;
+    -ms-transition: all 0.4s ease-in-out;
+    background-color: darkgreen;
+    color: #FFFFFF;
+    border: 2px solid darkgreen;
+}
+
+#nav_blog {
+    background-color: #00fa00;
+}
+
+#nav_poetry:hover {
+    transition: all 0.4s ease-in-out;
+    -webkit-transition: all 0.4s ease-in-out;
+    -moz-transition: all 0.4s ease-in-out;
+    -o-transition: all 0.4s ease-in-out;
+    -ms-transition: all 0.4s ease-in-out;
+    background-color: darkred;
+    color: #FFFFFF;
+    border: 2px solid darkred;
+}
+
+#nav_poetry {
+    background-color: darkorange;
+}
+
+a {
+    text-decoration: none;
+}

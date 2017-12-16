@@ -1,0 +1,285 @@
+#title {
+	position:fixed;
+	width:97.3%;
+	height: 25px;
+	background:url(photos/title-bar.png);
+	border-radius: 5px;
+	text-align:center;
+	margin: 0px 10px 3px 10px;
+}
+
+#logo {
+	background:url(photos/logo.png);
+	float:left;
+	margin-left:10px;
+	margin-top:2px;
+	height:20px;
+	width:20px;
+}
+
+#content {
+	margin-top:8px;
+	display:inline;
+	margin-left:270px;
+}
+
+#sidebar {
+	height:1300px;
+	width:204px;
+	float:left;
+	margin-top:30px;
+	margin-left:10px;
+	margin-right:10px;
+}
+
+#login-box p {
+	border:solid #9900CC;
+	color:#0000CC;
+}
+
+#login {
+	text-align:left;
+	font-size:14px;
+	margin-left:4px;
+}
+
+#login input {
+	margin-left:2px;
+}
+
+#postLayout {
+	border:2px solid #FF0000;
+	margin:4px 4px 4px 4px;
+	height:1324px;
+}
+
+#family-tree-link {
+	background:url(photos/family-tree-button.png);
+	float:left;
+	height:40px;
+	width:200px;
+	border-radius:5px;
+	margin-bottom:4px;
+}
+
+#trogdor-link {
+	background:url(photos/trogdor-button.png);
+	float:left;
+	height:40px;
+	width:200px;
+	border-radius:5px;
+	margin-bottom:4px;
+}
+
+#guitar-link {
+	background:url(photos/guitar-table-of-contents-button.png);
+	float:left;
+	height:40px;
+	width:200px;
+	border-radius:5px;
+	margin-bottom:4px;
+}
+
+#song-submission-link {
+	background:url(photos/submit-song-button.png);
+	height:40px;
+	width:200px;
+	border-radius:5px;
+	display:block;
+}
+
+#announcements {
+	text-align:center;
+	background-color:#FFFFFF;
+	margin:8px 10px 2px 2px;
+	float:left;
+}
+
+#register_button {
+	background:url(photos/register.png);
+	height:25px;
+	border-radius:3px;
+	width:100px;
+	float:right;
+	margin-right:100px;
+}
+
+#login-box {
+	width:200px;
+	height:165px;
+	background-color:#FFFFFF;
+	text-align:center;
+	font-size:15px;
+	font-family:Georgia, Times, serif;
+}
+
+.login-info {
+	float:left;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:12px;
+	margin-left:4px;
+}
+
+.thing-of-the-day {
+	height:300px;
+	width:188px;
+	text-align:center;
+	padding: 3px 3px 3px 3px;
+	border-radius:5px;
+	font-family:Georgia, Times, serif;
+	border:solid #FFFFFF;
+	margin-top: 10px;
+}
+
+#jokes {
+	background-color:#000000;
+	color:#00FF00;
+}
+
+#verses {
+	background-color:#000000;
+	color:#FFFF00;
+}
+
+#facts {
+	background-color:#000000;
+	color:#00FFFF;
+}
+
+a {
+	text-decoration:none;
+	color:inherit;
+}
+
+#registration_form {
+	margin: 10px 10px 10px 10px;
+	float:left;
+}
+
+#month_starter {
+	background-color:#FFFF00;
+	border:2px 2px 2px 2px #000000;
+	color:#333333;
+	width: 200px;
+	height: 70px;
+	font-size:18px;
+	text-align:center;
+}
+
+#registration_error {
+	float:right;
+	width:500px;
+	padding: 10px 5px 5px 5px;
+	margin: 10px 30px 20px 50px;
+	background-color:#FFFFFF;
+	color:#890C0F;
+	border:2px double #FF0000;
+}
+
+#fact_submission {
+	margin:10px 20px 10px 20px;
+	background-color:#00FFFF;
+	color:#000000;
+	border:3px double #CC00FF;
+	float:right;
+	width:800px;
+}
+
+#joke_submission {
+	margin:10px 20px 10px 20px;
+	background-color:#00FF00;
+	color:#000000;
+	border:3px double #CC00FF;
+	float:right;
+	width:800px;
+}
+
+#verse_submission {
+	margin:10px 20px 10px 20px;
+	background-color:#FFFF00;
+	color:#000000;
+	border:3px double #CC00FF;
+	float:right;
+	width:800px;
+}
+
+#success {
+	height:50px;
+	width:400px;
+	font-size:18px;
+	background-color:#33FF00;
+	border:3px double #FFFFFF;
+}
+
+#failure {
+	height:50px;
+	width:400px;
+	font-size:18px;
+	background-color:#FF171D;
+	border:3px double #000000;
+}
+
+.big_text {
+	width:600px;
+	height:20px;
+}
+
+#post_space {
+	font-size:10px;
+	font-family:Verdana, Arial, Helvetica, sans-serif;
+	background-color:#FFFF99;
+}
+
+#account_box {
+	border:2px double #000000;
+	background-color:#00FFFF;
+}
+
+#account_sig {
+    height: 20px;
+    width: auto;
+    float: left;
+    border: 3px double #00B2EE;
+    padding: 2px 2px 2px 2px;
+    margin-bottom: 50px;
+}
+
+.see_more {
+    float: right;
+    padding: 2px 2px 2px 2px;
+    margin-bottom: 50px;
+	background-image:url(photos/see_more.png);
+	width:60px;
+	height:45px;
+}
+
+.viewablePost {
+	border:3px #000000;
+}
+
+#song {
+	font-family:Courier, Georgia, Times New Roman;
+}
+
+.vid {
+	margin:4px 4px 4px 4px;
+}
+
+.register_input {
+	margin:2px 2px 2px 2px;
+	width:300px;
+	height:20px;
+}
+
+.post_text {
+	position:relative;
+	top:50%;
+	transform: translateY(50%);
+}
+
+#article-submission-link {
+	background:url(photos/submit-article-button.png);
+	width:200px;
+	height:40px;
+	border-radius:5px;
+}

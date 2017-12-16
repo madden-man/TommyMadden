@@ -1,0 +1,14 @@
+[22-Oct-2015 13:07:48 CST6CDT] PHP Deprecated:  mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/maddencl/public_html/login.php on line 13
+[22-Oct-2015 13:07:57 CST6CDT] PHP Fatal error:  Can't connect to MySQL server on '206.211.158.52' (110) in /home/maddencl/public_html/login.php on line 13
+[22-Oct-2015 13:08:44 CST6CDT] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/maddencl/public_html/login.php on line 13
+[22-Oct-2015 13:08:53 CST6CDT] PHP Fatal error:  Can't connect to MySQL server on '206.211.158.52' (110) in /home/maddencl/public_html/login.php on line 13
+[22-Oct-2015 13:09:56 CST6CDT] PHP Deprecated:  mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/maddencl/public_html/login.php on line 13
+[22-Oct-2015 13:10:05 CST6CDT] PHP Fatal error:  Can't connect to MySQL server on '206.211.158.52' (110) in /home/maddencl/public_html/login.php on line 13
+[04-Nov-2015 11:52:35 CST6CDT] PHP Deprecated:  mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/maddencl/public_html/login.php on line 13
+[04-Nov-2015 11:52:44 CST6CDT] PHP Fatal error:  Can't connect to MySQL server on '206.211.158.52' (110) in /home/maddencl/public_html/login.php on line 13
+[04-Nov-2015 12:16:07 CST6CDT] PHP Deprecated:  mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/maddencl/public_html/login.php on line 13
+[04-Nov-2015 12:16:16 CST6CDT] PHP Fatal error:  Can't connect to MySQL server on '206.211.158.52' (110) in /home/maddencl/public_html/login.php on line 13
+[04-Nov-2015 13:00:58 CST6CDT] PHP Deprecated:  mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/maddencl/public_html/login.php on line 13
+[04-Nov-2015 13:01:07 CST6CDT] PHP Fatal error:  Can't connect to MySQL server on '206.211.158.52' (110) in /home/maddencl/public_html/login.php on line 13
+[04-Nov-2015 13:46:49 CST6CDT] PHP Deprecated:  mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/maddencl/public_html/login.php on line 13
+[04-Nov-2015 13:46:58 CST6CDT] PHP Fatal error:  Can't connect to MySQL server on '206.211.158.52' (110) in /home/maddencl/public_html/login.php on line 13

@@ -1,0 +1,19 @@
+@font-face {
+    font-family: Gravity;
+    src: url("https://tommymadden.com/fonts/gravity/Gravity-Light.otf") format("opentype");
+}
+
+@font-face {
+    font-family: Malgun Gothic Special;
+    src: url("https://tommymadden.com/fonts/Malgun-Gothic-Bold.ttf");
+}
+
+@font-face {
+    font-family: Roboto Special;
+    src: url("https://tommymadden.com/fonts/roboto/Roboto-Thin.ttf");
+}
+
+@font-face {
+    font-family: Roboto MedSpecial;
+    src: url("https://tommymadden.com/fonts/roboto/Roboto-Medium.ttf");
+}

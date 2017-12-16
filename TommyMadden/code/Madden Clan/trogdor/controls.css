@@ -1,0 +1,35 @@
+/* CSS Document */
+
+.controls {
+	border:3px double #000099;
+	background-color:#66FF33;
+	color:#000000;
+	margin:auto;
+	text-align:center;
+}
+
+#left-controls {
+	float: left;
+	margin-left:30px;
+	font-size: 22px;
+}
+
+#right-controls {
+	float: right;
+	margin-right:30px;
+	font-size: 20px;
+}
+
+#bottom-controls {
+	background-color:#000000;
+	color:#FF0000;
+	font-size:36px;
+	float:none;
+	vertical-align:bottom;
+}
+
+.game {
+	margin:auto;
+	margin-top: 10px;
+	margin-bottom: 10px;
+}

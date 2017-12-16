@@ -1,0 +1,25 @@
+.circle_base {
+    border-bottom-left-radius: 50%;
+    border-top-right-radius: 50%;
+}
+
+.circle_container {
+    text-align: center;
+}
+
+#index {
+    border: 3px double #0000bf;
+    margin-top: 15px;
+    display: inline-block;
+    text-align: center;
+    white-space: pre-line;
+    height: auto;
+    padding-bottom: 8%;
+    padding-left: 8%;
+    padding-right: 8%;
+    padding-top: 3%;
+    background: -webkit-linear-gradient(yellow, white, #00fafa); /* For Safari 5.1 to 6.0 */
+    background: -o-linear-gradient(yellow, white, #00fafa); /* For Opera 11.1 to 12.0 */
+    background: -moz-linear-gradient(yellow, white, #00fafa); /* For Firefox 3.6 to 15 */
+    background: linear-gradient(yellow, white, #00fafa); /* Standard syntax */
+}
