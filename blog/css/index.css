@@ -1,0 +1,29 @@
+.content_container {
+    text-align: center;
+}
+
+.content {
+    text-align: center;
+    height: auto;
+    width: auto;
+    max-width: 48%;
+    display: inline-block;
+    border: 2px solid #0000bf;
+    background-color: white;
+    padding: 0 30px 30px 30px;
+    margin-top: 5px;
+    border-radius: 15px;
+    color: #000000;
+    font-size: 16px;
+    font-family: Ubuntu, serif;
+    white-space: pre-line;
+}
+
+.welcome_header {
+    font-family: Ubuntu, serif;
+}
+
+h3 {
+    display: inline-block;
+    margin: 10px 0 15px 0;
+}

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<NewsItem><ARTICLEID>MEXP-Ericsson-180816</ARTICLEID><DATELINE>2018-08-16</DATELINE><HEADLINE>Custom RRH forecast for Ericsson</HEADLINE><SUMMARY>This file converts the Mobile Experts forecast categories into the Ericsson categories, including some Small Cells and Macro base stations broken down to match with the Ericsson forecasting approach.</SUMMARY><NEWSLINETEXT>Forecast categories include&#13;
+-Macro Classic (below 6 GHz, and 8T8R or below, above 40W RF composite power)&#13;
+-AAS (below 6 GHz, and 16T16R and above)&#13;
+-mm-wave (above 20 GHz)&#13;
+-Microcell (outdoor small cells, 5-20W composite RF power)</NEWSLINETEXT><BYLINE>Joe Madden</BYLINE><SOURCE>Mobile Experts</SOURCE><KEYWORDS>Macro Small Cell AAS mm-wave microcell forecast rrh</KEYWORDS><ATTACHMENT>mexp special analysis for ericsson 180813.xlsx, , </ATTACHMENT></NewsItem>

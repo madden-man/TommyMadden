@@ -1,0 +1,12 @@
+* Make mult-verse work
+Get verses on multiple lines to work
+* Get notes on chapters or books to work
+* Perhaps a list of the acronyms at the top instead of the book names?
+Get automatic deployment working
+* Get notes to come up on screen when hovering over the signature
+* Get verse signature to be highlighted if it has a note
+Get different versions of the Bible to work
+* Click on verse, write a note
+cancel a note!
+* put query param in url when going to aa certain place!
+fix hosea 2 -> 21 issue (happens after query param)

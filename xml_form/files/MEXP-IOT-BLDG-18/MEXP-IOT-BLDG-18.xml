@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<NewsItem><ARTICLEID>MEXP-IOT-BLDG-18</ARTICLEID><DATELINE>2018-03-30</DATELINE><HEADLINE>Building Automation IoT Devices 2018</HEADLINE><SUMMARY>This report provides a five-year forecast for connectivity in Building Automation applications such as HVAC, Lighting, Security, Water Management, and other areas</SUMMARY><NEWSLINETEXT>Anybody that reads the wireless industry magazines has seen the stories that predict&#13;
+explosive growth in “Smart Buildings” which use new technologies to integrate multiple&#13;
+building systems together. In the utopian view, HVAC systems, lighting systems,&#13;
+door/window sensors, fire/smoke detectors, and many other systems would be integrated&#13;
+to use a common wireless protocol for quick and easy implementation.&#13;
+This view ignores the fact that each of the building systems to be automated (Lighting,&#13;
+HVAC, etc) are highly specialized, complex systems in their own silos, and the savings of a&#13;
+common wireless format is tiny compared with the cost of each system.&#13;
+In large commercial buildings, it’s clear that automation is growing, but we see Building&#13;
+Automation Systems (BAS) as independent systems with thermal sensors and controls&#13;
+integrated with HVAC, and light sensors/motion sensors wired into the Lighting Control&#13;
+system. Very little integration takes places between the distinct systems because each area&#13;
+involves different vendors, and each vendor has proprietary methods and data formats.&#13;
+In the Smart Home, these silos are not as rigid and we see some crossover of thermostats,&#13;
+smart appliances, security devices, and other IoT products. We document some strong&#13;
+growth here, although we do not see a major opportunity for high power RF hardware&#13;
+because the Smart Home systems are generally highly integrated low-power radios.&#13;
+&#13;
+Overall, we see some growth in NB-IoT for Building Automation and Smart Home devices in&#13;
+China, where government incentives are funding start-up companies and creating platforms with ultra-low cost on mobile networks. In China, the government has two motivations: They want Chinese vendors to lead the world in NB-IoT technology, and they want the mobile operators to dominate IoT data so that the government can easily access all kinds of data.&#13;
+In other countries, we do not see the same incentives and we expect that most commercial systems will remain on twisted-pair cabling. Smart home applications will make strong use of Bluetooth, Wi-Fi, and 802.15.4. LoRa and NB-IoT will be used in some sensor applications for larger buildings, and LTE will be used in some cases for video.&#13;
+In the end, we do not see Building Automation as a key area of focus for companies in the RF/wireless technology areas because of heavy emphasis on wired systems and low-power unlicensed wireless at very low cost.</NEWSLINETEXT><BYLINE>Joe Madden</BYLINE><SOURCE>Mobile Experts Inc.</SOURCE><KEYWORDS>Building Automation Lighting Security HVAC Water forecast</KEYWORDS><ATTACHMENT>mexp-iot-bldg-18 rev0 ericsson.pdf, , </ATTACHMENT></NewsItem>

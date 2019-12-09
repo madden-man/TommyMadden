@@ -1,0 +1,165 @@
+[13-Dec-2018 20:01:52 America/New_York] PHP Warning:  chmod() expects parameter 1 to be a valid path, resource given in /home/tommraed/public_html/xml_form/files/upload_xml.php on line 55
+[13-Dec-2018 20:01:52 America/New_York] PHP Warning:  ftp_chmod() expects exactly 3 parameters, 2 given in /home/tommraed/public_html/xml_form/files/upload_xml.php on line 101
+[13-Dec-2018 20:01:52 America/New_York] PHP Warning:  ftp_chmod() expects exactly 3 parameters, 2 given in /home/tommraed/public_html/xml_form/files/index.php on line 14
+[20-Dec-2018 11:35:48 America/New_York] PHP Warning:  chmod() expects parameter 1 to be a valid path, resource given in /home/tommraed/public_html/xml_form/files/upload_xml.php on line 55
+[20-Dec-2018 11:35:48 America/New_York] PHP Warning:  ftp_chmod() expects exactly 3 parameters, 2 given in /home/tommraed/public_html/xml_form/files/upload_xml.php on line 101
+[20-Dec-2018 11:35:48 America/New_York] PHP Warning:  ftp_chmod() expects exactly 3 parameters, 2 given in /home/tommraed/public_html/xml_form/files/index.php on line 14
+[31-Dec-2018 16:30:36 America/New_York] PHP Warning:  chmod() expects parameter 1 to be a valid path, resource given in /home/tommraed/public_html/xml_form/files/upload_xml.php on line 55
+[31-Dec-2018 16:30:36 America/New_York] PHP Warning:  ftp_chmod() expects exactly 3 parameters, 2 given in /home/tommraed/public_html/xml_form/files/upload_xml.php on line 101
+[31-Dec-2018 16:30:36 America/New_York] PHP Warning:  ftp_chmod() expects exactly 3 parameters, 2 given in /home/tommraed/public_html/xml_form/files/index.php on line 14
+[31-Dec-2018 16:33:46 America/New_York] PHP Warning:  chmod() expects parameter 1 to be a valid path, resource given in /home/tommraed/public_html/xml_form/files/upload_xml.php on line 55
+[31-Dec-2018 16:33:46 America/New_York] PHP Warning:  ftp_chmod() expects exactly 3 parameters, 2 given in /home/tommraed/public_html/xml_form/files/upload_xml.php on line 101
+[31-Dec-2018 16:33:47 America/New_York] PHP Warning:  ftp_chmod() expects exactly 3 parameters, 2 given in /home/tommraed/public_html/xml_form/files/index.php on line 14
+[02-Jan-2019 16:50:25 America/New_York] PHP Warning:  chmod() expects parameter 1 to be a valid path, resource given in /home/tommraed/public_html/xml_form/files/upload_xml.php on line 55
+[02-Jan-2019 16:50:25 America/New_York] PHP Warning:  ftp_chmod() expects exactly 3 parameters, 2 given in /home/tommraed/public_html/xml_form/files/upload_xml.php on line 101
+[02-Jan-2019 16:50:26 America/New_York] PHP Warning:  ftp_chmod() expects exactly 3 parameters, 2 given in /home/tommraed/public_html/xml_form/files/index.php on line 14
+[03-Jan-2019 19:46:59 America/New_York] PHP Warning:  chmod() expects parameter 1 to be a valid path, resource given in /home/tommraed/public_html/xml_form/files/upload_xml.php on line 55
+[03-Jan-2019 19:47:00 America/New_York] PHP Warning:  ftp_chmod() expects exactly 3 parameters, 2 given in /home/tommraed/public_html/xml_form/files/upload_xml.php on line 101
+[03-Jan-2019 19:47:00 America/New_York] PHP Warning:  ftp_chmod() expects exactly 3 parameters, 2 given in /home/tommraed/public_html/xml_form/files/index.php on line 14
+[09-Jan-2019 15:55:26 America/New_York] PHP Warning:  chmod() expects parameter 1 to be a valid path, resource given in /home/tommraed/public_html/xml_form/files/upload_xml.php on line 55
+[09-Jan-2019 15:55:26 America/New_York] PHP Warning:  ftp_chmod() expects exactly 3 parameters, 2 given in /home/tommraed/public_html/xml_form/files/upload_xml.php on line 101
+[09-Jan-2019 15:55:26 America/New_York] PHP Warning:  ftp_chmod() expects exactly 3 parameters, 2 given in /home/tommraed/public_html/xml_form/files/index.php on line 14
+[01-Feb-2019 16:23:26 America/New_York] PHP Warning:  chmod() expects parameter 1 to be a valid path, resource given in /home/tommraed/public_html/xml_form/files/upload_xml.php on line 55
+[01-Feb-2019 16:23:26 America/New_York] PHP Warning:  ftp_chmod() expects exactly 3 parameters, 2 given in /home/tommraed/public_html/xml_form/files/upload_xml.php on line 101
+[01-Feb-2019 16:23:26 America/New_York] PHP Warning:  ftp_chmod() expects exactly 3 parameters, 2 given in /home/tommraed/public_html/xml_form/files/index.php on line 14
+[06-Feb-2019 11:50:35 America/New_York] PHP Warning:  chmod() expects parameter 1 to be a valid path, resource given in /home/tommraed/public_html/xml_form/files/upload_xml.php on line 55
+[06-Feb-2019 11:50:35 America/New_York] PHP Warning:  ftp_chmod() expects exactly 3 parameters, 2 given in /home/tommraed/public_html/xml_form/files/upload_xml.php on line 101
+[06-Feb-2019 11:50:36 America/New_York] PHP Warning:  ftp_chmod() expects exactly 3 parameters, 2 given in /home/tommraed/public_html/xml_form/files/index.php on line 14
+[06-Feb-2019 20:03:12 America/New_York] PHP Warning:  chmod() expects parameter 1 to be a valid path, resource given in /home/tommraed/public_html/xml_form/files/upload_xml.php on line 55
+[06-Feb-2019 20:03:12 America/New_York] PHP Warning:  ftp_chmod() expects exactly 3 parameters, 2 given in /home/tommraed/public_html/xml_form/files/upload_xml.php on line 101
+[06-Feb-2019 20:03:12 America/New_York] PHP Warning:  ftp_chmod() expects exactly 3 parameters, 2 given in /home/tommraed/public_html/xml_form/files/index.php on line 14
+[08-Feb-2019 20:40:14 America/New_York] PHP Warning:  DOMDocument::createElement(): unterminated entity reference  Gas, Transportation, Manufacturing, Mining, and Utilities sectors.  Each sector includes separate analysis for market drivers and challenges, as well as a view of how the ecosystem and business model will evolve.   A clear review of spectrum options illustrates the limitations on market growth. in /home/tommraed/public_html/xml_form/files/upload_xml.php on line 30
+[08-Feb-2019 20:40:14 America/New_York] PHP Warning:  chmod() expects parameter 1 to be a valid path, resource given in /home/tommraed/public_html/xml_form/files/upload_xml.php on line 55
+[08-Feb-2019 20:40:14 America/New_York] PHP Warning:  ftp_chmod() expects exactly 3 parameters, 2 given in /home/tommraed/public_html/xml_form/files/upload_xml.php on line 101
+[08-Feb-2019 20:40:15 America/New_York] PHP Warning:  ftp_chmod() expects exactly 3 parameters, 2 given in /home/tommraed/public_html/xml_form/files/index.php on line 14
+[15-Feb-2019 18:59:21 America/New_York] PHP Warning:  chmod() expects parameter 1 to be a valid path, resource given in /home/tommraed/public_html/xml_form/files/upload_xml.php on line 55
+[15-Feb-2019 18:59:21 America/New_York] PHP Warning:  ftp_chmod() expects exactly 3 parameters, 2 given in /home/tommraed/public_html/xml_form/files/upload_xml.php on line 101
+[15-Feb-2019 18:59:22 America/New_York] PHP Warning:  ftp_chmod() expects exactly 3 parameters, 2 given in /home/tommraed/public_html/xml_form/files/index.php on line 14
+[22-Feb-2019 18:02:48 America/New_York] PHP Warning:  mkdir(): File exists in /home/tommraed/public_html/xml_form/files/upload_xml.php on line 53
+[22-Feb-2019 18:02:48 America/New_York] PHP Warning:  chmod() expects parameter 1 to be a valid path, resource given in /home/tommraed/public_html/xml_form/files/upload_xml.php on line 55
+[22-Feb-2019 18:02:48 America/New_York] PHP Warning:  ftp_chmod() expects exactly 3 parameters, 2 given in /home/tommraed/public_html/xml_form/files/upload_xml.php on line 101
+[22-Feb-2019 18:02:49 America/New_York] PHP Warning:  ftp_chmod() expects exactly 3 parameters, 2 given in /home/tommraed/public_html/xml_form/files/index.php on line 14
+[13-Mar-2019 19:00:13 America/New_York] PHP Warning:  ftp_chmod() expects exactly 3 parameters, 2 given in /home/tommraed/public_html/xml_form/files/index.php on line 14
+[13-Mar-2019 19:25:45 America/New_York] PHP Warning:  ftp_chmod() expects exactly 3 parameters, 2 given in /home/tommraed/public_html/xml_form/files/index.php on line 14
+[14-Mar-2019 19:29:25 America/New_York] PHP Warning:  chmod() expects parameter 1 to be a valid path, resource given in /home/tommraed/public_html/xml_form/files/upload_xml.php on line 55
+[14-Mar-2019 19:29:25 America/New_York] PHP Warning:  ftp_chmod() expects exactly 3 parameters, 2 given in /home/tommraed/public_html/xml_form/files/upload_xml.php on line 101
+[14-Mar-2019 19:29:25 America/New_York] PHP Warning:  ftp_chmod() expects exactly 3 parameters, 2 given in /home/tommraed/public_html/xml_form/files/index.php on line 14
+[14-Mar-2019 19:29:57 America/New_York] PHP Warning:  ftp_chmod() expects exactly 3 parameters, 2 given in /home/tommraed/public_html/xml_form/files/index.php on line 14
+[15-Mar-2019 18:29:46 America/New_York] PHP Warning:  ftp_chmod() expects exactly 3 parameters, 2 given in /home/tommraed/public_html/xml_form/files/index.php on line 14
+[15-Mar-2019 18:35:36 America/New_York] PHP Warning:  chmod() expects parameter 1 to be a valid path, resource given in /home/tommraed/public_html/xml_form/files/upload_xml.php on line 55
+[15-Mar-2019 18:35:36 America/New_York] PHP Warning:  ftp_chmod() expects exactly 3 parameters, 2 given in /home/tommraed/public_html/xml_form/files/upload_xml.php on line 101
+[15-Mar-2019 18:35:36 America/New_York] PHP Warning:  ftp_chmod() expects exactly 3 parameters, 2 given in /home/tommraed/public_html/xml_form/files/index.php on line 14
+[19-Mar-2019 17:08:44 America/New_York] PHP Warning:  ftp_chmod() expects exactly 3 parameters, 2 given in /home/tommraed/public_html/xml_form/files/index.php on line 14
+[01-Apr-2019 18:29:06 America/New_York] PHP Warning:  chmod() expects parameter 1 to be a valid path, resource given in /home/tommraed/public_html/xml_form/files/upload_xml.php on line 55
+[01-Apr-2019 18:29:06 America/New_York] PHP Warning:  ftp_chmod() expects exactly 3 parameters, 2 given in /home/tommraed/public_html/xml_form/files/upload_xml.php on line 101
+[01-Apr-2019 18:29:07 America/New_York] PHP Warning:  ftp_chmod() expects exactly 3 parameters, 2 given in /home/tommraed/public_html/xml_form/files/index.php on line 14
+[01-Apr-2019 18:40:23 America/New_York] PHP Warning:  chmod() expects parameter 1 to be a valid path, resource given in /home/tommraed/public_html/xml_form/files/upload_xml.php on line 55
+[01-Apr-2019 18:40:23 America/New_York] PHP Warning:  ftp_chmod() expects exactly 3 parameters, 2 given in /home/tommraed/public_html/xml_form/files/upload_xml.php on line 101
+[01-Apr-2019 18:40:23 America/New_York] PHP Warning:  ftp_chmod() expects exactly 3 parameters, 2 given in /home/tommraed/public_html/xml_form/files/index.php on line 14
+[04-Apr-2019 18:25:51 America/New_York] PHP Warning:  chmod() expects parameter 1 to be a valid path, resource given in /home/tommraed/public_html/xml_form/files/upload_xml.php on line 55
+[04-Apr-2019 18:25:51 America/New_York] PHP Warning:  ftp_chmod() expects exactly 3 parameters, 2 given in /home/tommraed/public_html/xml_form/files/upload_xml.php on line 101
+[04-Apr-2019 18:25:51 America/New_York] PHP Warning:  ftp_chmod() expects exactly 3 parameters, 2 given in /home/tommraed/public_html/xml_form/files/index.php on line 14
+[25-Apr-2019 16:21:19 America/New_York] PHP Warning:  chmod() expects parameter 1 to be a valid path, resource given in /home/tommraed/public_html/xml_form/files/upload_xml.php on line 55
+[25-Apr-2019 16:21:19 America/New_York] PHP Warning:  ftp_chmod() expects exactly 3 parameters, 2 given in /home/tommraed/public_html/xml_form/files/upload_xml.php on line 101
+[25-Apr-2019 16:21:19 America/New_York] PHP Warning:  ftp_chmod() expects exactly 3 parameters, 2 given in /home/tommraed/public_html/xml_form/files/index.php on line 14
+[29-Apr-2019 19:49:07 America/New_York] PHP Warning:  chmod() expects parameter 1 to be a valid path, resource given in /home/tommraed/public_html/xml_form/files/upload_xml.php on line 55
+[29-Apr-2019 19:49:07 America/New_York] PHP Warning:  ftp_chmod() expects exactly 3 parameters, 2 given in /home/tommraed/public_html/xml_form/files/upload_xml.php on line 101
+[29-Apr-2019 19:49:08 America/New_York] PHP Warning:  ftp_chmod() expects exactly 3 parameters, 2 given in /home/tommraed/public_html/xml_form/files/index.php on line 14
+[06-May-2019 14:21:45 America/New_York] PHP Warning:  chmod() expects parameter 1 to be a valid path, resource given in /home/tommraed/public_html/xml_form/files/upload_xml.php on line 55
+[06-May-2019 14:21:45 America/New_York] PHP Warning:  ftp_chmod() expects exactly 3 parameters, 2 given in /home/tommraed/public_html/xml_form/files/upload_xml.php on line 101
+[06-May-2019 14:21:45 America/New_York] PHP Warning:  ftp_chmod() expects exactly 3 parameters, 2 given in /home/tommraed/public_html/xml_form/files/index.php on line 14
+[06-May-2019 17:36:27 America/New_York] PHP Warning:  chmod() expects parameter 1 to be a valid path, resource given in /home/tommraed/public_html/xml_form/files/upload_xml.php on line 55
+[06-May-2019 17:36:27 America/New_York] PHP Warning:  ftp_chmod() expects exactly 3 parameters, 2 given in /home/tommraed/public_html/xml_form/files/upload_xml.php on line 101
+[06-May-2019 17:36:27 America/New_York] PHP Warning:  ftp_chmod() expects exactly 3 parameters, 2 given in /home/tommraed/public_html/xml_form/files/index.php on line 14
+[14-May-2019 16:41:49 America/New_York] PHP Warning:  ftp_chmod() expects exactly 3 parameters, 2 given in /home/tommraed/public_html/xml_form/files/index.php on line 14
+[16-May-2019 15:13:56 America/New_York] PHP Warning:  ftp_chmod() expects exactly 3 parameters, 2 given in /home/tommraed/public_html/xml_form/files/index.php on line 14
+[06-Jun-2019 16:50:47 America/New_York] PHP Warning:  chmod() expects parameter 1 to be a valid path, resource given in /home/tommraed/public_html/xml_form/files/upload_xml.php on line 55
+[06-Jun-2019 16:50:47 America/New_York] PHP Warning:  ftp_chmod() expects exactly 3 parameters, 2 given in /home/tommraed/public_html/xml_form/files/upload_xml.php on line 101
+[06-Jun-2019 16:50:48 America/New_York] PHP Warning:  ftp_chmod() expects exactly 3 parameters, 2 given in /home/tommraed/public_html/xml_form/files/index.php on line 14
+[07-Jun-2019 11:59:19 America/New_York] PHP Warning:  chmod() expects parameter 1 to be a valid path, resource given in /home/tommraed/public_html/xml_form/files/upload_xml.php on line 55
+[07-Jun-2019 11:59:19 America/New_York] PHP Warning:  ftp_chmod() expects exactly 3 parameters, 2 given in /home/tommraed/public_html/xml_form/files/upload_xml.php on line 101
+[07-Jun-2019 11:59:20 America/New_York] PHP Warning:  ftp_chmod() expects exactly 3 parameters, 2 given in /home/tommraed/public_html/xml_form/files/index.php on line 14
+[21-Jun-2019 18:26:55 America/New_York] PHP Warning:  chmod() expects parameter 1 to be a valid path, resource given in /home/tommraed/public_html/xml_form/files/upload_xml.php on line 55
+[21-Jun-2019 18:26:55 America/New_York] PHP Warning:  ftp_chmod() expects exactly 3 parameters, 2 given in /home/tommraed/public_html/xml_form/files/upload_xml.php on line 101
+[21-Jun-2019 18:26:56 America/New_York] PHP Warning:  ftp_chmod() expects exactly 3 parameters, 2 given in /home/tommraed/public_html/xml_form/files/index.php on line 14
+[21-Jun-2019 18:35:27 America/New_York] PHP Warning:  chmod() expects parameter 1 to be a valid path, resource given in /home/tommraed/public_html/xml_form/files/upload_xml.php on line 55
+[21-Jun-2019 18:35:27 America/New_York] PHP Warning:  ftp_chmod() expects exactly 3 parameters, 2 given in /home/tommraed/public_html/xml_form/files/upload_xml.php on line 101
+[21-Jun-2019 18:35:27 America/New_York] PHP Warning:  ftp_chmod() expects exactly 3 parameters, 2 given in /home/tommraed/public_html/xml_form/files/index.php on line 14
+[26-Jun-2019 14:12:42 America/New_York] PHP Warning:  chmod() expects parameter 1 to be a valid path, resource given in /home/tommraed/public_html/xml_form/files/upload_xml.php on line 55
+[26-Jun-2019 14:12:49 America/New_York] PHP Warning:  ftp_chmod() expects exactly 3 parameters, 2 given in /home/tommraed/public_html/xml_form/files/upload_xml.php on line 101
+[26-Jun-2019 14:12:49 America/New_York] PHP Warning:  ftp_chmod() expects exactly 3 parameters, 2 given in /home/tommraed/public_html/xml_form/files/index.php on line 14
+[17-Jul-2019 16:34:50 America/New_York] PHP Warning:  chmod() expects parameter 1 to be a valid path, resource given in /home/tommraed/public_html/xml_form/files/upload_xml.php on line 55
+[17-Jul-2019 16:34:50 America/New_York] PHP Warning:  ftp_chmod() expects exactly 3 parameters, 2 given in /home/tommraed/public_html/xml_form/files/upload_xml.php on line 101
+[17-Jul-2019 16:34:50 America/New_York] PHP Warning:  ftp_chmod() expects exactly 3 parameters, 2 given in /home/tommraed/public_html/xml_form/files/index.php on line 14
+[22-Jul-2019 15:34:53 America/New_York] PHP Warning:  ftp_chmod() expects exactly 3 parameters, 2 given in /home/tommraed/public_html/xml_form/files/index.php on line 14
+[26-Jul-2019 12:43:22 America/New_York] PHP Warning:  chmod() expects parameter 1 to be a valid path, resource given in /home/tommraed/public_html/xml_form/files/upload_xml.php on line 55
+[26-Jul-2019 12:43:23 America/New_York] PHP Warning:  ftp_chmod() expects exactly 3 parameters, 2 given in /home/tommraed/public_html/xml_form/files/upload_xml.php on line 101
+[26-Jul-2019 12:43:23 America/New_York] PHP Warning:  ftp_chmod() expects exactly 3 parameters, 2 given in /home/tommraed/public_html/xml_form/files/index.php on line 14
+[31-Jul-2019 12:16:22 America/New_York] PHP Warning:  ftp_chmod() expects exactly 3 parameters, 2 given in /home/tommraed/public_html/xml_form/files/index.php on line 14
+[31-Jul-2019 12:22:31 America/New_York] PHP Warning:  chmod() expects parameter 1 to be a valid path, resource given in /home/tommraed/public_html/xml_form/files/upload_xml.php on line 55
+[31-Jul-2019 12:22:31 America/New_York] PHP Warning:  ftp_chmod() expects exactly 3 parameters, 2 given in /home/tommraed/public_html/xml_form/files/upload_xml.php on line 101
+[31-Jul-2019 12:22:32 America/New_York] PHP Warning:  ftp_chmod() expects exactly 3 parameters, 2 given in /home/tommraed/public_html/xml_form/files/index.php on line 14
+[31-Jul-2019 14:24:22 America/New_York] PHP Warning:  ftp_chmod() expects exactly 3 parameters, 2 given in /home/tommraed/public_html/xml_form/files/index.php on line 14
+[31-Jul-2019 14:27:46 America/New_York] PHP Warning:  chmod() expects parameter 1 to be a valid path, resource given in /home/tommraed/public_html/xml_form/files/upload_xml.php on line 55
+[31-Jul-2019 14:27:46 America/New_York] PHP Warning:  ftp_chmod() expects exactly 3 parameters, 2 given in /home/tommraed/public_html/xml_form/files/upload_xml.php on line 101
+[31-Jul-2019 14:27:46 America/New_York] PHP Warning:  ftp_chmod() expects exactly 3 parameters, 2 given in /home/tommraed/public_html/xml_form/files/index.php on line 14
+[07-Aug-2019 12:47:25 America/New_York] PHP Warning:  chmod() expects parameter 1 to be a valid path, resource given in /home/tommraed/public_html/xml_form/files/upload_xml.php on line 55
+[07-Aug-2019 12:47:26 America/New_York] PHP Warning:  ftp_chmod() expects exactly 3 parameters, 2 given in /home/tommraed/public_html/xml_form/files/upload_xml.php on line 101
+[07-Aug-2019 12:47:26 America/New_York] PHP Warning:  ftp_chmod() expects exactly 3 parameters, 2 given in /home/tommraed/public_html/xml_form/files/index.php on line 14
+[03-Sep-2019 14:30:51 America/New_York] PHP Warning:  chmod() expects parameter 1 to be a valid path, resource given in /home/tommraed/public_html/xml_form/files/upload_xml.php on line 55
+[03-Sep-2019 14:30:51 America/New_York] PHP Warning:  ftp_chmod() expects exactly 3 parameters, 2 given in /home/tommraed/public_html/xml_form/files/upload_xml.php on line 101
+[03-Sep-2019 14:30:51 America/New_York] PHP Warning:  ftp_chmod() expects exactly 3 parameters, 2 given in /home/tommraed/public_html/xml_form/files/index.php on line 14
+[04-Sep-2019 14:07:42 America/New_York] PHP Warning:  chmod() expects parameter 1 to be a valid path, resource given in /home/tommraed/public_html/xml_form/files/upload_xml.php on line 55
+[04-Sep-2019 14:07:42 America/New_York] PHP Warning:  ftp_chmod() expects exactly 3 parameters, 2 given in /home/tommraed/public_html/xml_form/files/upload_xml.php on line 101
+[04-Sep-2019 14:07:42 America/New_York] PHP Warning:  ftp_chmod() expects exactly 3 parameters, 2 given in /home/tommraed/public_html/xml_form/files/index.php on line 14
+[04-Sep-2019 14:10:44 America/New_York] PHP Warning:  chmod() expects parameter 1 to be a valid path, resource given in /home/tommraed/public_html/xml_form/files/upload_xml.php on line 55
+[04-Sep-2019 14:10:44 America/New_York] PHP Warning:  ftp_chmod() expects exactly 3 parameters, 2 given in /home/tommraed/public_html/xml_form/files/upload_xml.php on line 101
+[04-Sep-2019 14:10:44 America/New_York] PHP Warning:  ftp_chmod() expects exactly 3 parameters, 2 given in /home/tommraed/public_html/xml_form/files/index.php on line 14
+[25-Sep-2019 17:45:18 America/New_York] PHP Warning:  chmod() expects parameter 1 to be a valid path, resource given in /home/tommraed/public_html/xml_form/files/upload_xml.php on line 55
+[25-Sep-2019 17:45:18 America/New_York] PHP Warning:  ftp_chmod() expects exactly 3 parameters, 2 given in /home/tommraed/public_html/xml_form/files/upload_xml.php on line 101
+[25-Sep-2019 17:45:18 America/New_York] PHP Warning:  ftp_chmod() expects exactly 3 parameters, 2 given in /home/tommraed/public_html/xml_form/files/index.php on line 14
+[27-Sep-2019 12:22:26 America/New_York] PHP Warning:  ftp_chmod() expects exactly 3 parameters, 2 given in /home/tommraed/public_html/xml_form/files/index.php on line 14
+[27-Sep-2019 12:23:15 America/New_York] PHP Warning:  chmod() expects parameter 1 to be a valid path, resource given in /home/tommraed/public_html/xml_form/files/upload_xml.php on line 55
+[27-Sep-2019 12:23:15 America/New_York] PHP Warning:  ftp_chmod() expects exactly 3 parameters, 2 given in /home/tommraed/public_html/xml_form/files/upload_xml.php on line 101
+[27-Sep-2019 12:23:15 America/New_York] PHP Warning:  ftp_chmod() expects exactly 3 parameters, 2 given in /home/tommraed/public_html/xml_form/files/index.php on line 14
+[30-Sep-2019 12:07:50 America/New_York] PHP Warning:  chmod() expects parameter 1 to be a valid path, resource given in /home/tommraed/public_html/xml_form/files/upload_xml.php on line 55
+[30-Sep-2019 12:07:50 America/New_York] PHP Warning:  ftp_chmod() expects exactly 3 parameters, 2 given in /home/tommraed/public_html/xml_form/files/upload_xml.php on line 101
+[30-Sep-2019 12:07:50 America/New_York] PHP Warning:  ftp_chmod() expects exactly 3 parameters, 2 given in /home/tommraed/public_html/xml_form/files/index.php on line 14
+[04-Oct-2019 13:24:33 America/New_York] PHP Warning:  chmod() expects parameter 1 to be a valid path, resource given in /home/tommraed/public_html/xml_form/files/upload_xml.php on line 55
+[04-Oct-2019 13:24:33 America/New_York] PHP Warning:  ftp_chmod() expects exactly 3 parameters, 2 given in /home/tommraed/public_html/xml_form/files/upload_xml.php on line 101
+[04-Oct-2019 13:24:34 America/New_York] PHP Warning:  ftp_chmod() expects exactly 3 parameters, 2 given in /home/tommraed/public_html/xml_form/files/index.php on line 14
+[31-Oct-2019 20:19:12 America/New_York] PHP Warning:  chmod() expects parameter 1 to be a valid path, resource given in /home/tommraed/public_html/xml_form/files/upload_xml.php on line 55
+[31-Oct-2019 20:19:12 America/New_York] PHP Warning:  ftp_chmod() expects exactly 3 parameters, 2 given in /home/tommraed/public_html/xml_form/files/upload_xml.php on line 101
+[31-Oct-2019 20:19:13 America/New_York] PHP Warning:  ftp_chmod() expects exactly 3 parameters, 2 given in /home/tommraed/public_html/xml_form/files/index.php on line 14
+[31-Oct-2019 20:23:06 America/New_York] PHP Warning:  chmod() expects parameter 1 to be a valid path, resource given in /home/tommraed/public_html/xml_form/files/upload_xml.php on line 55
+[31-Oct-2019 20:23:06 America/New_York] PHP Warning:  ftp_chmod() expects exactly 3 parameters, 2 given in /home/tommraed/public_html/xml_form/files/upload_xml.php on line 101
+[31-Oct-2019 20:23:07 America/New_York] PHP Warning:  ftp_chmod() expects exactly 3 parameters, 2 given in /home/tommraed/public_html/xml_form/files/index.php on line 14
+[04-Nov-2019 15:01:14 America/New_York] PHP Warning:  chmod() expects parameter 1 to be a valid path, resource given in /home/tommraed/public_html/xml_form/files/upload_xml.php on line 55
+[04-Nov-2019 15:01:14 America/New_York] PHP Warning:  ftp_chmod() expects exactly 3 parameters, 2 given in /home/tommraed/public_html/xml_form/files/upload_xml.php on line 101
+[04-Nov-2019 15:01:14 America/New_York] PHP Warning:  ftp_chmod() expects exactly 3 parameters, 2 given in /home/tommraed/public_html/xml_form/files/index.php on line 14
+[04-Nov-2019 15:05:17 America/New_York] PHP Warning:  chmod() expects parameter 1 to be a valid path, resource given in /home/tommraed/public_html/xml_form/files/upload_xml.php on line 55
+[04-Nov-2019 15:05:17 America/New_York] PHP Warning:  ftp_chmod() expects exactly 3 parameters, 2 given in /home/tommraed/public_html/xml_form/files/upload_xml.php on line 101
+[04-Nov-2019 15:05:17 America/New_York] PHP Warning:  ftp_chmod() expects exactly 3 parameters, 2 given in /home/tommraed/public_html/xml_form/files/index.php on line 14
+[04-Nov-2019 15:08:21 America/New_York] PHP Warning:  mkdir(): File exists in /home/tommraed/public_html/xml_form/files/upload_xml.php on line 53
+[04-Nov-2019 15:08:21 America/New_York] PHP Warning:  chmod() expects parameter 1 to be a valid path, resource given in /home/tommraed/public_html/xml_form/files/upload_xml.php on line 55
+[04-Nov-2019 15:08:21 America/New_York] PHP Warning:  ftp_chmod() expects exactly 3 parameters, 2 given in /home/tommraed/public_html/xml_form/files/upload_xml.php on line 101
+[04-Nov-2019 15:08:21 America/New_York] PHP Warning:  ftp_chmod() expects exactly 3 parameters, 2 given in /home/tommraed/public_html/xml_form/files/index.php on line 14
+[04-Nov-2019 15:08:22 America/New_York] PHP Warning:  ftp_chmod() expects exactly 3 parameters, 2 given in /home/tommraed/public_html/xml_form/files/index.php on line 14
+[05-Nov-2019 12:58:45 America/New_York] PHP Warning:  ftp_chmod() expects exactly 3 parameters, 2 given in /home/tommraed/public_html/xml_form/files/index.php on line 14
+[05-Nov-2019 18:59:54 America/New_York] PHP Warning:  mkdir(): File exists in /home/tommraed/public_html/xml_form/files/upload_xml.php on line 53
+[05-Nov-2019 18:59:54 America/New_York] PHP Warning:  chmod() expects parameter 1 to be a valid path, resource given in /home/tommraed/public_html/xml_form/files/upload_xml.php on line 55
+[05-Nov-2019 18:59:54 America/New_York] PHP Warning:  ftp_chmod() expects exactly 3 parameters, 2 given in /home/tommraed/public_html/xml_form/files/upload_xml.php on line 101
+[05-Nov-2019 18:59:55 America/New_York] PHP Warning:  ftp_chmod() expects exactly 3 parameters, 2 given in /home/tommraed/public_html/xml_form/files/index.php on line 14
+[05-Nov-2019 19:03:12 America/New_York] PHP Warning:  ftp_chmod() expects exactly 3 parameters, 2 given in /home/tommraed/public_html/xml_form/files/index.php on line 14
+[05-Nov-2019 19:05:36 America/New_York] PHP Warning:  chmod() expects parameter 1 to be a valid path, resource given in /home/tommraed/public_html/xml_form/files/upload_xml.php on line 55
+[05-Nov-2019 19:05:36 America/New_York] PHP Warning:  ftp_chmod() expects exactly 3 parameters, 2 given in /home/tommraed/public_html/xml_form/files/upload_xml.php on line 101
+[05-Nov-2019 19:05:36 America/New_York] PHP Warning:  ftp_chmod() expects exactly 3 parameters, 2 given in /home/tommraed/public_html/xml_form/files/index.php on line 14
+[03-Dec-2019 18:25:35 America/New_York] PHP Warning:  chmod() expects parameter 1 to be a valid path, resource given in /home/tommraed/public_html/xml_form/files/upload_xml.php on line 55
+[03-Dec-2019 18:25:35 America/New_York] PHP Warning:  ftp_chmod() expects exactly 3 parameters, 2 given in /home/tommraed/public_html/xml_form/files/upload_xml.php on line 101
+[03-Dec-2019 18:25:35 America/New_York] PHP Warning:  ftp_chmod() expects exactly 3 parameters, 2 given in /home/tommraed/public_html/xml_form/files/index.php on line 14
+[03-Dec-2019 19:28:49 America/New_York] PHP Warning:  chmod() expects parameter 1 to be a valid path, resource given in /home/tommraed/public_html/xml_form/files/upload_xml.php on line 55
+[03-Dec-2019 19:28:49 America/New_York] PHP Warning:  ftp_chmod() expects exactly 3 parameters, 2 given in /home/tommraed/public_html/xml_form/files/upload_xml.php on line 101
+[03-Dec-2019 19:28:49 America/New_York] PHP Warning:  ftp_chmod() expects exactly 3 parameters, 2 given in /home/tommraed/public_html/xml_form/files/index.php on line 14
+[05-Dec-2019 14:49:45 America/New_York] PHP Warning:  chmod() expects parameter 1 to be a valid path, resource given in /home/tommraed/public_html/xml_form/files/upload_xml.php on line 55
+[05-Dec-2019 14:49:45 America/New_York] PHP Warning:  ftp_chmod() expects exactly 3 parameters, 2 given in /home/tommraed/public_html/xml_form/files/upload_xml.php on line 101
+[05-Dec-2019 14:49:46 America/New_York] PHP Warning:  ftp_chmod() expects exactly 3 parameters, 2 given in /home/tommraed/public_html/xml_form/files/index.php on line 14

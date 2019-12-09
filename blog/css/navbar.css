@@ -1,0 +1,152 @@
+#nav_container {
+    text-align: center;
+}
+
+.nav_title {
+    transition: all 0.4s ease-in-out;
+    -webkit-transition: all 0.4s ease-in-out;
+    -moz-transition: all 0.4s ease-in-out;
+    -o-transition: all 0.4s ease-in-out;
+    -ms-transition: all 0.4s ease-in-out;
+
+    /* Hide the text. */
+    text-indent: 100%;
+    white-space: nowrap;
+    overflow: hidden;
+
+    text-align: center;
+    line-height: 7vw;
+    font-size: 26px;
+    vertical-align: middle;
+    font-family: Ubuntu, serif;
+
+    width: 8vw;
+    height: 8vw;
+
+    margin: 3px 5px 3px 5px;
+}
+
+#nav_home:hover {
+    transition: all 0.4s ease-in-out;
+    -webkit-transition: all 0.4s ease-in-out;
+    -moz-transition: all 0.4s ease-in-out;
+    -o-transition: all 0.4s ease-in-out;
+    -ms-transition: all 0.4s ease-in-out;
+    background: white;
+    color: darkorange;
+
+    border: 4px ridge darkorange;
+
+    /* Show the text. */
+    text-indent: 0;
+    white-space: pre-wrap;
+
+    line-height: 135px;
+    font-size: 35px;
+}
+
+#nav_home {
+  /*  background: url(../img/tommy_reading.jpg); */
+    display: inline-block;
+    background-size: contain;
+
+    border: 4px ridge darkorange;
+
+    width: 12vw;
+    height: 12vw;
+}
+
+#nav_blog:hover {
+    transition: all 0.4s ease-in-out;
+    -webkit-transition: all 0.4s ease-in-out;
+    -moz-transition: all 0.4s ease-in-out;
+    -o-transition: all 0.4s ease-in-out;
+    -ms-transition: all 0.4s ease-in-out;
+    background: white;
+    color: #518bad;
+
+    border: 4px ridge #518bad;
+
+    /* Show the text. */
+    text-indent: 0;
+    white-space: pre-wrap;
+}
+
+#nav_blog {
+    background: url(../img/air-symbol.jpg) no-repeat center center;
+    background-size: contain;
+    display: inline-block;
+}
+
+#nav_projects:hover {
+    transition: all 0.4s ease-in-out;
+    -webkit-transition: all 0.4s ease-in-out;
+    -moz-transition: all 0.4s ease-in-out;
+    -o-transition: all 0.4s ease-in-out;
+    -ms-transition: all 0.4s ease-in-out;
+    background: white;
+    color: #00701C;
+
+    border: 4px ridge #00701C;
+
+    /* Show the text. */
+    text-indent: 0;
+    white-space: pre-wrap;
+}
+
+#nav_projects {
+    background: url(../img/earth-symbol.jpg) no-repeat center center;
+    background-size: contain;
+    display: inline-block;
+}
+
+#nav_poetry:hover {
+    transition: all 0.4s ease-in-out;
+    -webkit-transition: all 0.4s ease-in-out;
+    -moz-transition: all 0.4s ease-in-out;
+    -o-transition: all 0.4s ease-in-out;
+    -ms-transition: all 0.4s ease-in-out;
+    background: white;
+    color: darkred;
+    border: 4px ridge darkred;
+
+    /* Show the text. */
+    text-indent: 0;
+    white-space: pre-wrap;
+}
+
+#nav_poetry {
+    background: url(../img/fire-symbol.jpg) no-repeat center center;
+    background-size: contain;
+    display: inline-block;
+}
+
+#nav_sermons:hover {
+    transition: all 0.4s ease-in-out;
+    -webkit-transition: all 0.4s ease-in-out;
+    -moz-transition: all 0.4s ease-in-out;
+    -o-transition: all 0.4s ease-in-out;
+    -ms-transition: all 0.4s ease-in-out;
+    background: white;
+    color: #1F0054;
+
+    border: 4px ridge #1F0054;
+
+    /* Show the text. */
+    text-indent: 0;
+    white-space: pre-wrap;
+}
+
+#nav_sermons {
+    background: url(../img/water-symbol.jpg) no-repeat center center;
+    background-size: contain;
+    display: inline-block;
+}
+
+a {
+    text-decoration: none;
+}
+
+html, body {
+    width: auto;
+}

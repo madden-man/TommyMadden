@@ -1,0 +1,50 @@
+#hook_container {
+    text-align: center;
+    padding: 15px;
+    margin-top: 5%;
+    display: block;
+    min-width: 375px;
+    width: 100%;
+    flex-direction: column;
+}
+
+.hook_text {
+    line-height: 5px;
+}
+
+.hook {
+    border-left: 3px ridge orange;
+    border-right: 3px ridge orange;
+    width: 50%;
+    height: auto;
+    white-space: pre-line;
+    display: inline-block;
+    padding: 10px;
+    font-family: Candara, "Times New Roman", Georgia, serif;
+    font-size: 16px;
+}
+
+#hook1 {
+    background: -webkit-linear-gradient(gold, yellow); /* For Safari 5.1 to 6.0 */
+    background: -o-linear-gradient(gold, yellow); /* For Opera 11.1 to 12.0 */
+    background: -moz-linear-gradient(gold, yellow); /* For Firefox 3.6 to 15 */
+    background: linear-gradient(gold, yellow); /* Standard syntax */
+    border-top: 3px ridge orange;
+}
+
+#hook2 {
+    background: -webkit-linear-gradient(yellow, lightgoldenrodyellow); /* For Safari 5.1 to 6.0 */
+    background: -o-linear-gradient(yellow, lightgoldenrodyellow); /* For Opera 11.1 to 12.0 */
+    background: -moz-linear-gradient(yellow, lightgoldenrodyellow); /* For Firefox 3.6 to 15 */
+    background: linear-gradient(yellow, lightgoldenrodyellow); /* Standard syntax */
+}
+
+#hook3 {
+    background: -webkit-linear-gradient(lightgoldenrodyellow, white); /* For Safari 5.1 to 6.0 */
+    background: -o-linear-gradient(lightgoldenrodyellow, white); /* For Opera 11.1 to 12.0 */
+    background: -moz-linear-gradient(lightgoldenrodyellow, white); /* For Firefox 3.6 to 15 */
+    background: linear-gradient(lightgoldenrodyellow, white); /* Standard syntax */
+    border-bottom: 3px ridge orange;
+    color: #0000bf;
+    text-decoration: underline;
+}

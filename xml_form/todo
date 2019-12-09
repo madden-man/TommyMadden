@@ -1,0 +1,22 @@
+* Upload File
+    -Filepicker Dialog
+    -Remove past file
+    -Put new file in
+        -Force <ArticleID>.xml if necessary
+
+* Remove Entry
+    -Remove each file
+    -Remove empty directory
+    -Remove from system
+
+* Fix caching problem
+    -Add Query Param?
+
+* Download/Edit
+    -Different based on type of file
+    -XML is editable
+    -Anything else is downloadable
+
+* Tool Tips on button hover
+
+*
